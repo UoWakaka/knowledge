@@ -6,13 +6,7 @@
 *~
 identity.yaml
 *.db
-*.out.yaml
 *.log
-*-conf.yaml
-trochilus_packs
-let-download
-*.dpzz
-body.json
-dossp_apps
-pkg/sensors/temperature/earring/dossp/v1/test/test
 *.hash
+Cargo.lock
+target
